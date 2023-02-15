@@ -1,6 +1,6 @@
 # EDA-Limpieza-Visualizacion 👩‍💻
 
-##  *Resumen*📝
+##  *Contenido*📝
 
 En este repositorio encontramos dos carpetas:
 
